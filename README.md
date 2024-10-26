@@ -47,15 +47,23 @@ To set APP Key
 
 
 ## OUTPUT 
+![Screenshot 2024-10-26 102307](https://github.com/user-attachments/assets/0cb8a16e-eab2-4d50-b77f-109831fe88bd)
 
 GATEWAY 
+![Screenshot 2024-10-26 104631](https://github.com/user-attachments/assets/40f1e141-f235-4a71-8366-cc3f293fec26)
+
 
 CHANNEL CREATION 
+![Screenshot 2024-10-26 105222](https://github.com/user-attachments/assets/27fe0b86-916d-4bd0-a338-6e346de52e53)
 
 END DEVICE 
+![Screenshot 2024-10-26 111617](https://github.com/user-attachments/assets/2165eb92-370e-4628-bb7d-c3726411bd38)
+
 
 PAYLOAD FORMATTERS 
+![Screenshot 2024-10-26 111700](https://github.com/user-attachments/assets/5eb28019-34fa-4d21-b2ec-64d1b1baf30a)
 
+![Screenshot 2024-10-26 111645](https://github.com/user-attachments/assets/3918b1bd-8c57-4bfd-aa07-e5349f65dbd0)
 
 ## Results: 
 
